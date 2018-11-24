@@ -1,1 +1,1 @@
-- [x] Batch Normalization Forward and Backward pass.
+- [x] Batch Normalization (Forward and Backward pass).
